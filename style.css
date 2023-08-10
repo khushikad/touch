@@ -1,0 +1,11 @@
+body{
+    background-position: center ;
+    background-size: cover;
+    text-align:center;
+}
+
+#mycanvas{
+background-color: aquamarine;
+border-style:dotted;
+border-width:5px ;
+}
